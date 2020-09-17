@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72b42ed3.chunk.css",
+    "main.js": "/static/js/main.3fc5e6fc.chunk.js",
+    "main.js.map": "/static/js/main.3fc5e6fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ea3b1d25.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ea3b1d25.js.map",
+    "static/css/2.50f99185.chunk.css": "/static/css/2.50f99185.chunk.css",
+    "static/js/2.0fc68178.chunk.js": "/static/js/2.0fc68178.chunk.js",
+    "static/js/2.0fc68178.chunk.js.map": "/static/js/2.0fc68178.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.99e9453d85d9d38189074800f04b50fd.js": "/precache-manifest.99e9453d85d9d38189074800f04b50fd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.50f99185.chunk.css.map": "/static/css/2.50f99185.chunk.css.map",
+    "static/css/main.72b42ed3.chunk.css.map": "/static/css/main.72b42ed3.chunk.css.map",
+    "static/js/2.0fc68178.chunk.js.LICENSE.txt": "/static/js/2.0fc68178.chunk.js.LICENSE.txt",
+    "static/media/bilstereo.JPG": "/static/media/bilstereo.cf06d919.JPG",
+    "static/media/modtagfaktura.JPG": "/static/media/modtagfaktura.120179e4.JPG",
+    "static/media/navidoc.JPG": "/static/media/navidoc.e2502a42.JPG",
+    "static/media/plan.jpg": "/static/media/plan.2fe8a83e.jpg",
+    "static/media/påvej.jpg": "/static/media/påvej.870896cd.jpg",
+    "static/media/reacttodo.JPG": "/static/media/reacttodo.9006bbd4.JPG",
+    "static/media/seasony.JPG": "/static/media/seasony.e6a3fca1.JPG",
+    "static/media/todojs.JPG": "/static/media/todojs.798faf48.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea3b1d25.js",
+    "static/css/2.50f99185.chunk.css",
+    "static/js/2.0fc68178.chunk.js",
+    "static/css/main.72b42ed3.chunk.css",
+    "static/js/main.3fc5e6fc.chunk.js"
+  ]
+}

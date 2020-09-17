@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.resumeGrid {
+  width: 100%;
+  padding: 0.5%;
+}
+
+.leftCol,
+.rightCol {
+  padding-left: 3em;
+  padding-right: 1em;
+}
+.leftCol img {
+  width: 10em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Recommendations sectin styling  */
+.rightCol p {
+  padding-top: 2%;
+}
+
+.recommendtCell {
+  margin-top: 2%;
+}
+
+.recommendtCell img {
+  margin-top: 1%;
+}
+
+/* Summary tab styling  */
+.summaryTab {
+  background: #fff;
+  display: inline-block;
+  position: relative;
+  width: 90%;
+  border-style: inset;
+}
+
+.summaryTab p {
+  padding: 4%;
+  font-size: larger;
+}
+
+.summaryTab p:hover {
+  box-shadow: 0 14px 28px #5499c7, 0 10px 10px #5499c7;
+}
+
+/* Experience | education | recommendation p styling  */
+
+.Experience {
+  width: 100%;
+  border-radius: 10px;
+  background: rgba(215, 233, 241);
+  display: table;
+  cursor: pointer;
+  transition: 1s;
+  padding: 2%;
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+.Experience:hover {
+  background: linear-gradient(315deg, #5499c7, #5499c7);
+  box-shadow: inset -30px -10px 10px #5499c7, inset 30px 10px 10px #5499c7;
+}
+
+/* Skill section styling  */
+.progressBarStylingx {
+  width: 90% !important;
+  height: 1.5rem;
+}

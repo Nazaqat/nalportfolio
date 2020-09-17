@@ -1,0 +1,13 @@
+.skillSetSec h4 {
+  text-align: center;
+}
+.progressBarStyling {
+  width: 80%;
+  height: 1.5rem;
+  margin-left: 10%;
+}
+
+.technicalSet {
+  margin-left: 10%;
+  font-size: 1.3rem;
+}
